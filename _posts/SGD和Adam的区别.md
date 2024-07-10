@@ -1,3 +1,13 @@
+---
+title: 'Blog Post number 1'
+date: 2021-10-20
+permalink: /posts/2012/08/sgd and adam/
+tags:
+  - 优化器
+  - SGD
+  - ADAM
+---
+
 深度学习二分类问题，选择使用已经训练好的resnet。
 
 ![在这里插入图片描述](../picture/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5YmN56iL5Ly86ZSm6J2I6J2I,size_20,color_FFFFFF,t_70,g_se,x_16.png)
