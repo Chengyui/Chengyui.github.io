@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
+title: 'sgd and adam'
 date: 2021-10-20
-permalink: /posts/2012/08/sgd and adam/
+permalink: /posts/2012/08/sgd-and-adam/
 tags:
   - 优化器
   - SGD
