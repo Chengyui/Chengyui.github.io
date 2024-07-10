@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-Hello, I'm Cheng Jinguo. I graduated from Jiexiu No. 1 High School in Shanxi Province in 2019 and will graduate from the [School of Computer Science](https://cs.scu.edu.cn/) at Sichuan University in 2024, with a Bachelor's degree in Computer Science and Technology. I have 
+Hello, I'm Cheng Jinguo. I graduated from Jiexiu No. 1 High School in Shanxi Province in 2019 and graduated from the [School of Computer Science](https://cs.scu.edu.cn/) at Sichuan University in 2023, with a Bachelor's degree in Computer Science and Technology. 
 
-received postgraduate recommendation without examination to  [National Key Laboratory of Fundamental Science on Synthetic Vision](https://vs.scu.edu.cn/) at Sichuan University, where I am mentored by Professor [Yuankai Wu](https://kaimaoge.github.io/).
+In 2023, I have received postgraduate recommendation without examination to  [National Key Laboratory of Fundamental Science on Synthetic Vision](https://vs.scu.edu.cn/) at Sichuan University, where I am mentored by Professor [Yuankai Wu](https://kaimaoge.github.io/).
 
-My research interests span various areas, including Spatiotemporal data analysis, Foundation Model for data mining, and Multi-modal Large language model.
+My research interests span various areas, including spatiotemporal data analysis, foundation model for data mining, and multi-modal large language model.
 
 You can find my CV here: [Cheng jinguo](../assets/MyCV.pdf).
 
