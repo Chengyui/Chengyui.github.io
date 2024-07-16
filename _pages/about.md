@@ -16,6 +16,6 @@ In 2023, I have received postgraduate recommendation without examination to  [Na
 
 My research interests span various areas, including spatiotemporal data analysis, foundation model for data mining, and multi-modal large language model.
 
-You can find my CV here: [Cheng jinguo](../assets/MyCV.pdf).
+You can find my CV here: [程锦国 Chengjinguo](../assets/MyCV.pdf).
 
 [Email](2023226040005@stu.scu.edu.cn) / [Github](https://github.com/Chengyui) / [Wechat](../images/wechat.jpg) / [Google Scholar](https://scholar.google.com/citations?user=FlyIMz0AAAAJ&hl=zh-CN&oi=sra)
