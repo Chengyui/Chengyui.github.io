@@ -13,7 +13,7 @@ author_profile: true
 
   - Multimodal Large Model Application based on [MiniCPM-V 2.5](https://github.com/OpenBMB/MiniCPM-V)
 
-  - I responsible for fine-tuning the visual reasoning ability and task planning ability of embodied intelligence in specific scenarios.
+  - I am responsible for fine-tuning the visual reasoning ability and task planning ability of embodied intelligence in specific scenarios.
 
     
 
@@ -21,4 +21,4 @@ author_profile: true
 
   - From 2024/08 to the Present
   - Hangzhou, China
-  - Responsible for collecting weather data, evaluating different time series forecasting methods such as traditional machine learning methods XGboost as well as the deep learning methods: TimeXer, PatchTST, iTransformer, etc.
+  - I am responsible for collecting weather data, evaluating different time series forecasting methods such as traditional machine learning methods XGboost as well as the deep learning methods: TimeXer, PatchTST, iTransformer, etc.

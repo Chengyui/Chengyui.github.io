@@ -11,5 +11,5 @@ Our contributions to the long-term urban mobility prediction challenge using SUM
 - We present the SUMformer: a Transformer model designed to leverage temporal, frequency, and cross-variable correlations for urban mobility forecasting. Notably, it stands out as one of the few Transformer models that explicitly taps into and harnesses cross-variable correlations across every channel and grid for urban mobility prediction.
 - Experiments demonstrate that SUMformer surpasses state-of-the-art methods across five real-world datasets. We emphasize the significance of the super-multivariate perspective, explicit cross-variable correlation modeling, and frequency information for achieving optimal performance.
 
-[PDF](../assets/SUMformer.pdf)/[Code with 11 stars!!!](https://github.com/Chengyui/SUMformer)
+[PDF](/assets/SUMformer.pdf)/[Code with 11 stars!!!](https://github.com/Chengyui/SUMformer)
 
