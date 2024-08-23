@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Chengdu-China"
-title                    : "Chengyui's Personal Homepage"
+title                    : "Jinguo Cheng(程锦国)"
 title_separator          : "-"
 name                     : &ChengJinguo "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinguo Cheng"
   avatar           : "profile.png"
-  bio              : "Believe In Intuition!"
+  bio              : "postgraduate at SCU"
   location         : "Chengdu, Sichuan University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

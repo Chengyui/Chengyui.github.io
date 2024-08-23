@@ -11,6 +11,12 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Internship"
+    url: /internship/
+
+  - title: "LearningByDoing"
+    url: /LearningByDoing/
         
   #- title: "Blog Posts"
     #url: /year-archive/
