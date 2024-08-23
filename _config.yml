@@ -83,7 +83,7 @@ author:
   name             : "Jinguo Cheng"
   avatar           : "profile.png"
   bio              : "Believe In Intuition!"
-  location         : "Chengdu, Sichuan Province"
+  location         : "Chengdu, Sichuan University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FlyIMz0AAAAJ&hl=zh-CN&oi=sra"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
