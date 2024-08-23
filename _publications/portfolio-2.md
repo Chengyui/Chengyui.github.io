@@ -1,7 +1,7 @@
 ---
 title: "NuwaTS: a Foundation Model Mending Every Incomplete Time Series"
 excerpt: "We introduce a novel solution, NuwaTS, capable of performing missing data imputation tasks on any incomplete time series unseen during the training phase. To the best of our knowledge, this represents the pioneering attempt in this field. <br/><img src='/images/NuwaTS.jpg'>"
-collection: portfolio
+collection: publications
 ---
 2024.8
 

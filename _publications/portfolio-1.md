@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Urban Mobility Prediction: A Super-Multivariate Time Series Forecasting Approach"
 excerpt: "This paper presents the Super-Multivariate Urban Mobility Transformer (SUMformer), which utilizes a specially designed attention mechanism to calculate temporal and cross-variable correlations and reduce computational costs stemming from a large number of time series. <br/><img src='/images/SUMformer.jpg'>"
-collection: portfolio
+collection: publications
 ---
 2023.12
 
