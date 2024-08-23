@@ -5,7 +5,7 @@ permalink: /internship/
 author_profile: true
 ---
 
-- Remote Internship at Apple, AIML
+- Remote Internship at Qiyuan Lab (启元实验室)
 
   - From 2024/06 to 2024/08
 
@@ -17,7 +17,7 @@ author_profile: true
 
     
 
-- Remote Internship at XM which is a startup
+- Remote Internship at XM (曦谋决策) which is a startup
 
   - From 2024/08 to the Present
   - Hangzhou, China
